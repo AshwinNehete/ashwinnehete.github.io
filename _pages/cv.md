@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+<!-- * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* B.Tech. in Manufacturing Sciences and Engg., IIT Kharagpur, 2020
+* M.S. (Research) in Mechanical Engineering, Carnegie Mellon University, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Summer Intern
+  * Williams Controls - CurtissWright
+  * Duties included: Industrial Internship
+  <!-- * Supervisor: Professor Git -->
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======

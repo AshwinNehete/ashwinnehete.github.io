@@ -8,8 +8,8 @@ date: 2021-01-02
 location: "Pittsburgh, PA"
 ---
 
-Responsible for preparation and teaching of recitations and holding office hours for students.\
-Preparation of assignments based on course curriculum followed by grading.
+Markup : * Responsible for preparation and teaching of recitations and holding office hours for students.\
+Markup : * Preparation of assignments based on course curriculum followed by grading.
 
 Heading 1
 ======

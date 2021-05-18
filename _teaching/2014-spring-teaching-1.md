@@ -1,7 +1,7 @@
 ---
-title: "Course Assistant"
+title: "Course Assistant - AIML for Engineers"
 collection: teaching
-type: "24787 - AIML for Engineers"
+type: "Graduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Carnegie Mellon University, Mechanical Engineering Department"
 date: 2021-01-02

@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="/images/Resume Ash 1col-1.jpg " width="450">
+<img src="/images/Resume Ash 1col-1.jpg ">
 
-Education
+<!-- Education
 ======
 <!-- * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 * M.S. (Research) in Mechanical Engineering, Carnegie Mellon University, 2022 (expected)
-* B.Tech. (Honors) in Manufacturing Sciences and Engineering, IIT Kharagpur, 2020
+* B.Tech. (Honors) in Manufacturing Sciences and Engineering, IIT Kharagpur, 2020 -->
 
-Work experience
+<!-- Work experience
 ======
 * Graduate Student Researcher - Computational Engineering and Robotics Lab (CERLAB), CMU
   * Conducting research for the “Depowdering & Metrology for Additive Mfg. Post Processing” project sponsored by NASA ULI.
@@ -39,7 +39,7 @@ Work experience
 * Undergraduate Student Researcher - AGV Research Group, IIT Kharagpur
   * Studied design elements to conduct structural analysis and simulation of sensor mounts for Mahindra Rise Prize Challenge.
   * Designed CAD model on Solidworks and conducted structural analysis on ANSYS of Eklavya 6.0 chassis.
-  * Significantly reduced the mechanical vibrations induced in the chassis during its driverless run, the major cause of failure of Eklavya 5.0
+  * Significantly reduced the mechanical vibrations induced in the chassis during its driverless run, the major cause of failure of Eklavya 5.0 -->
 
   <!-- * Supervisor: Professor Git -->
 
@@ -48,20 +48,20 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======
@@ -69,12 +69,12 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

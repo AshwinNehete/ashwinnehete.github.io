@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="https://user-images.githubusercontent.com/21180916/118181877-4a0b7380-b406-11eb-8328-5dc7f0fc338e.png" width="450">  <img src="https://user-images.githubusercontent.com/21180916/118181905-52fc4500-b406-11eb-9bd3-7e5c44aeb315.png" width="450">
+<img src="/images/Resume Ash 1col-1.jpg " width="450">
 
 Education
 ======

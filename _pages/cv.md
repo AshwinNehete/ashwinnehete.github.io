@@ -13,9 +13,9 @@ redirect_from:
 
 <!-- Education
 ======
-<!-- * B.S. in GitHub, GitHub University, 2012
+* B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. (Research) in Mechanical Engineering, Carnegie Mellon University, 2022 (expected)
 * B.Tech. (Honors) in Manufacturing Sciences and Engineering, IIT Kharagpur, 2020 -->
 

@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Comparative Analysis of SLAM Algorithms in ROS"
+excerpt: "Set up different SLAM al-gorithms in ROS, for varied sensor suites through testing with Benchmark  datasets  and  Simulated  Data  generated  through CARLA simulation. <br/><img src='/images/slam_pic.png'>"
 collection: portfolio
 ---
 

@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Course Assistant - Computer Vision for Engineers"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate Course"
+permalink: /teaching/2015-spring-teaching-2
+venue: "Carnegie Mellon University, Mechanical Engineering Department"
+date: 2021-01-02
+location: "Pittsburgh, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<!-- * Conducted recitations and held office hours for students enabling them to gain deeper understanding of topics and clarify their doubts.
+* Drafted assignments for the course curriculum followed by grading and provision of feedback to the student submissions. -->

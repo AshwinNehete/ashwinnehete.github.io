@@ -1,6 +1,6 @@
 ---
 title: "Comparative Analysis of SLAM Algorithms in ROS"
-excerpt: "Set up different SLAM algorithms in ROS for varied sensor suites through testing with Benchmark  datasets  and  Simulated  Data  generated  through CARLA simulation. <br/><img src='/images/slam_pic.png'>"
+excerpt: "Set up different SLAM algorithms in ROS for varied sensor suites through testing with Benchmark  datasets  and  Simulated  Data  generated  through CARLA simulation. <br/><img src='/images/slam_pic.png' width="500" height="300">"
 collection: portfolio
 ---
 

@@ -8,6 +8,7 @@ author_profile: true
 ## Williams Control - Curtiss Wright, Pune, India
 
 * Engineering Design Department
+---
     * Wear prediction for dry revolute joint with clearance in multibody system by integrating dynamics model and wear model
         * The objective of this task is to study the wear phenomenon of dry revolute clearance joints in multibody systems based on the Archard’s wear model computational methodology.
     * Force analysis of a JCB Hand Control Lever
@@ -15,6 +16,7 @@ author_profile: true
         * The amount of force required to rotate the lever finds its direct dependence on the amount of compression of the wave spring.
 
 * Quality Engineering Department
+---
     * Bullet 1
     * Bullet 2
 

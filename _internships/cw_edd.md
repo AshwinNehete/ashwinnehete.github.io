@@ -1,8 +1,12 @@
 ---
-title: "Freeform Deformation of a template skull to match a patient's face scan"
-excerpt: "Structured FFD algorithm to realize template skull deformation via a set of control points to align with a patient’s face scan<br/><img src='/images/500x300.png'>"
+title: "Engineering Design Department"
+excerpt: "<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* Wear prediction for dry revolute joint with clearance in multibody system by integrating dynamics model and wear model
+    * The objective of this task is to study the wear phenomenon of dry revolute clearance joints in multibody systems based on the Archard’s wear model computational methodology.
+* Force analysis of a JCB Hand Control Lever
+    * The task was to provide a theoretical model to account for the force required to rotate the JCB Hand Control Lever.
+    * The amount of force required to rotate the lever finds its direct dependence on the amount of compression of the wave spring.
 

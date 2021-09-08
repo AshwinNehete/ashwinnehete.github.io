@@ -1,5 +1,5 @@
 ---
-title: "Quality Engineering Department"
+title: "Manufacturing and Production Department"
 excerpt: "<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---

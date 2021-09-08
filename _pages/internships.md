@@ -5,6 +5,13 @@ title: "Internships"
 author_profile: true
 ---
 
+{% include base_path %}
+
+
+{% for post in site.internships %}
+  {% include archive-single.html %}
+{% endfor %}
+<!-- 
 ## Williams Control - Curtiss Wright, Pune, India
 
 * Engineering Design Department
@@ -26,4 +33,4 @@ author_profile: true
 
 * Supply Chain Management Department
     * Bullet 1
-    * Bullet 2
+    * Bullet 2 -->

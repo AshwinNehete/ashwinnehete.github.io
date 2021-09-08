@@ -4,7 +4,7 @@ main:
     url: /portfolio/
 
   - title: "Internships"
-    url: /cwintern/ 
+    url: /internships/ 
   
   - title: "Publications"
     url: /publications/    

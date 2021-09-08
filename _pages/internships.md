@@ -5,11 +5,8 @@ title: "Internships"
 author_profile: true
 ---
 
-Hello There!
-===
+## Hello There!
 
-Bullet 1
-===
+### Bullet 1
 
-Bullet 2
-===
+#### Bullet 2

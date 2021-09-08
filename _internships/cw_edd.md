@@ -1,11 +1,11 @@
 ---
-title: "Course Assistant - AIML for Engineers"
-collection: portfolio
-type: "Graduate Course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Carnegie Mellon University, Mechanical Engineering Department"
-date: 2021-01-02
-location: "Pittsburgh, PA"
+title: "Engineering Design Department"
+collection: internships
+type: "Internship"
+permalink: /internships/cw_edd
+venue: "Williams Control - Curtiss Wright, Pune, India"
+date: 2019-05-06
+location: "Pune, India"
 ---
 
 * Wear prediction for dry revolute joint with clearance in multibody system by integrating dynamics model and wear model

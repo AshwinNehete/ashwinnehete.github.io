@@ -2,6 +2,7 @@
 title: "Engineering Design Department"
 excerpt: "<br/><img src='/images/500x300.png'>"
 collection: teaching
+permalink: /internships/cw_edd
 ---
 
 * Wear prediction for dry revolute joint with clearance in multibody system by integrating dynamics model and wear model

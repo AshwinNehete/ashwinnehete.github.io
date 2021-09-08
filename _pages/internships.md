@@ -5,8 +5,14 @@ title: "Internships"
 author_profile: true
 ---
 
-## Hello There!
+## Williams Control - Curtiss Wright, Pune, India
 
-### Bullet 1
+* Engineering Department
+    * Bullet 1
+    * Bullet 2
 
-#### Bullet 2
+* Quality Engg. Department
+    * Bullet 1
+    * Bullet 2
+
+

@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /internships/
 title: "Internships"
+permalink: /internships/
 author_profile: true
 ---
 

@@ -1,13 +1,10 @@
 ---
 title: "Williams Control - Curtiss Wright"
-collection: internships
-type: "Summer Internship 2019"
-permalink: /internships/cw
-venue: "Pune, India"
-date: July 2019
-location: "Pune, India"
+excerpt: "<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
 
+### Engineering Design Department
 * Wear prediction for dry revolute joint with clearance in multibody system by integrating dynamics model and wear model
     * The objective of this task is to study the wear phenomenon of dry revolute clearance joints in multibody systems based on the Archard’s wear model computational methodology.
 * Force analysis of a JCB Hand Control Lever

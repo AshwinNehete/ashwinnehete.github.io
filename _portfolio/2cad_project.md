@@ -4,7 +4,7 @@ excerpt: "Structured FFD algorithm to realize template skull deformation via a s
 collection: portfolio
 ---
 
-`24681 - Computer Aided Design - Spring 2021`
+`Computer Aided Design - Spring 2021`
 
 * Structured FFD algorithm to realize template skull deformation via a set of control points to align with a patient’s face scan.
 * The face-skull geometry is used for FEA to simulate custom-fit mask-face interaction for mask design before fabrication.

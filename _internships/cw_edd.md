@@ -7,19 +7,19 @@ collection: portfolio
 `Summer Internship - Pune, India (May-Jul 2019)`
 
 ## Engineering Design Department
-1. Wear prediction for dry revolute joint with clearance in multibody system by integrating dynamics model and wear model
-* The objective of this task was to study the wear phenomenon of dry revolute clearance joints in multibody systems based on the Archard’s wear model computational methodology.
+* Wear prediction for dry revolute joint with clearance in multibody system by integrating dynamics model and wear model
+    * The objective of this task was to study the wear phenomenon of dry revolute clearance joints in multibody systems based on the Archard’s wear model computational methodology.
 
-2. Force analysis of a JCB Hand Control Lever
-* The task was to provide a theoretical model to account for the force required to rotate the JCB Hand Control Lever.
-* The amount of force required to rotate the lever finds its direct dependence on the amount of compression of the wave spring.
+* Force analysis of a JCB Hand Control Lever
+    * The task was to provide a theoretical model to account for the force required to rotate the JCB Hand Control Lever.
+    * The amount of force required to rotate the lever finds its direct dependence on the amount of compression of the wave spring.
 
 ## Manufacturing and Production Department
-1. Product Assembly Process Control
-* Implemented image processing using OpenCV libraries and Raspberry Pi hardware to detect flaws during part assembly to significantly reduce part rejection percentage on the production line.
-* Application of canny edge detection and brute-force matching techniques on RaspberryPi using OpenCV Libraries to obtain the orientation of the magnet installed into the pedal to ensure correct North-South pole fixture to guarantee proper programming of the magnet rotation dependent sensor.
-* Implemented image thresholding and colour detection using OpenCV Libraries to ensure the application of grease on the hand control lever hub surface during its assembly on the production line.
-> The proposed project is one of a kind that was aimed at replacing the costly setup with a cheaper yet reliable hardware which received great appreciation from the company.
+* Product Assembly Process Control
+    * Implemented image processing using OpenCV libraries and Raspberry Pi hardware to detect flaws during part assembly to significantly reduce part rejection percentage on the production line.
+    * Application of canny edge detection and brute-force matching techniques on RaspberryPi using OpenCV Libraries to obtain the orientation of the magnet installed into the pedal to ensure correct North-South pole fixture to guarantee proper programming of the magnet rotation dependent sensor.
+    * Implemented image thresholding and colour detection using OpenCV Libraries to ensure the application of grease on the hand control lever hub surface during its assembly on the production line.
+    > The proposed project is one of a kind that was aimed at replacing the costly setup with a cheaper yet reliable hardware which received great appreciation from the company.
 * Acquired knowledge on PFMEA (Process Failure Mode and Effect Analysis), inventory management, maintaining employee skill matrix, daily production yield and delivery accuracy.
 
 ## Quality Engineering Department

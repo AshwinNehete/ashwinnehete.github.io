@@ -1,11 +1,7 @@
 ---
 title: "Engineering Design Department"
-collection: internships
-type: "Internship"
-permalink: /internships/cw_edd
-venue: "Williams Control - Curtiss Wright, Pune, India"
-date: 2019-05-06
-location: "Pune, India"
+excerpt: "<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
 
 * Wear prediction for dry revolute joint with clearance in multibody system by integrating dynamics model and wear model

@@ -4,6 +4,9 @@ excerpt: "Implemented several classifiers to model the effects of future changes
 collection: portfolio
 ---
 
+`24787 - Artificial Intelligence and Machine Learning - Fall 2020`
+
 * Implemented several classifiers to model the effects of future changes in U.S. light-duty vehicles on carbon emission levels.
 * Accomplished significant reduction in the execution time while maintaining 90% accuracy by using feature engineering.
+
 <br/><img src='/images/aiml_adobespark.jpeg'>

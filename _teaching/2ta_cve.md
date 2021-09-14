@@ -11,4 +11,4 @@ location: "Pittsburgh, PA"
 * Conducted recitations and held office hours for students enabling them to gain deeper understanding of topics and clarify their doubts.
 * Drafted assignments for the course curriculum followed by grading and provision of feedback to the student submissions.
 
-Link to the course: [click here](http://www.andrew.cmu.edu/course/24-678/)
+> Link to the course: [click here](http://www.andrew.cmu.edu/course/24-678/)

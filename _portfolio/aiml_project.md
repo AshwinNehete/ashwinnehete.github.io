@@ -1,8 +1,8 @@
 ---
 title: "Course Assistant - AIML for Engineers"
-collection: teaching
+collection: portfolio
 type: "Graduate Course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /portfolio/aiml_project
 venue: "Carnegie Mellon University, Mechanical Engineering Department"
 date: 2021-01-02
 location: "Pittsburgh, PA"

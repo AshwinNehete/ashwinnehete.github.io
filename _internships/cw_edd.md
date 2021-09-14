@@ -4,7 +4,7 @@ collection: internships
 type: "Summer Internship 2019"
 permalink: /internships/cw
 venue: "Pune, India"
-date: 2019-07-06
+date: 
 location: "Pune, India"
 ---
 

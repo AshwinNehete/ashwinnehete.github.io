@@ -8,6 +8,8 @@ date: 2021-01-02
 location: "Pittsburgh, PA"
 ---
 
+`Course Instructor : [Prof. Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html)`
+
 * Conducted recitations and held office hours for students enabling them to gain deeper understanding of topics and clarify their doubts.
 * Drafted assignments for the course curriculum followed by grading and provision of feedback to the student submissions.
 

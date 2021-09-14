@@ -10,4 +10,5 @@ collection: portfolio
 * The face-skull geometry is used for FEA to simulate custom-fit mask-face interaction for mask design before fabrication.
 
 > Link to course: [click here](https://www.andrew.cmu.edu/course/24-681/)
+
 <br/><img src='/images/500x300.png'>

@@ -7,9 +7,8 @@ collection: portfolio
 `Summer Internship - Pune, India (May-Jul 2019)`
 
 ## Engineering Design Department
-* Wear prediction for dry revolute joint with clearance in multibody system by integrating dynamics model and wear model
-
-> The objective of this task was to study the wear phenomenon of dry revolute clearance joints in multibody systems based on the Archard’s wear model computational methodology.
+Wear prediction for dry revolute joint with clearance in multibody system by integrating dynamics model and wear model
+:   The objective of this task was to study the wear phenomenon of dry revolute clearance joints in multibody systems based on the Archard’s wear model computational methodology.
 
 * Force analysis of a JCB Hand Control Lever
 

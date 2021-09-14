@@ -4,4 +4,5 @@ excerpt: "<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+* Under the guidance of Prof. Nirupam Chakraborti (Department of Metallurgical and Materials Engineering, IIT Kharagpur), developed genetic algorithm based solution to iteratively obtain the optimal position of the ground hinge of a multi-bar linkage for various coupler configurations.
+* Implemented Stochastic Universal Sampling to minimize the L2 loss for successive iterations and achieved a final accuracy of 99.77%.

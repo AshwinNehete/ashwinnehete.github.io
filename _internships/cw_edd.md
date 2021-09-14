@@ -7,14 +7,14 @@ collection: portfolio
 `Summer Internship - Pune, India (May-Jul 2019)`
 
 ## Engineering Design Department
-> Wear prediction for dry revolute joint with clearance in multibody system by integrating dynamics model and wear model
+* Wear prediction for dry revolute joint with clearance in multibody system by integrating dynamics model and wear model
 
-* The objective of this task was to study the wear phenomenon of dry revolute clearance joints in multibody systems based on the Archard’s wear model computational methodology.
+> The objective of this task was to study the wear phenomenon of dry revolute clearance joints in multibody systems based on the Archard’s wear model computational methodology.
 
-> Force analysis of a JCB Hand Control Lever
+* Force analysis of a JCB Hand Control Lever
 
-* The task was to provide a theoretical model to account for the force required to rotate the JCB Hand Control Lever.
-* The amount of force required to rotate the lever finds its direct dependence on the amount of compression of the wave spring.
+> The task was to provide a theoretical model to account for the force required to rotate the JCB Hand Control Lever.
+> The amount of force required to rotate the lever finds its direct dependence on the amount of compression of the wave spring.
 
 ## Manufacturing and Production Department
 * Implemented image processing using OpenCV libraries and Raspberry Pi hardware to detect flaws during part assembly to significantly reduce part rejection percentage on the production line.

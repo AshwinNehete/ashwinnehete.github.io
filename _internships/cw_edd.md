@@ -1,6 +1,6 @@
 ---
 title: "Williams Control - Curtiss Wright"
-collection: teaching
+collection: internship
 type: "Summer Internship 2019"
 permalink: /internships/cw
 venue: "Pune, India"

@@ -242,7 +242,7 @@ defaults:
   # _internships
   - scope:
       path: ""
-      type: portfolio
+      type: internships
     values:
       layout: single
       author_profile: true

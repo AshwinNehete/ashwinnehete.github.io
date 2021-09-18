@@ -1,6 +1,6 @@
 ---
 title: "To study the effect of powder deposition strategies on warping"
-excerpt: ""
+excerpt: "Studied dimensional dependance of generation of residual stresses at the clad-substrate interface for first clad layer"
 collection: portfolio
 ---
 

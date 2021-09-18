@@ -1,6 +1,6 @@
 ---
 title: "Kinematics of a Four-Bar Linkage using Genetic Algorithms"
-excerpt: ""
+excerpt: "Obtain the optimal position of the ground hinge of a multi-bar linkage for various coupler configurations"
 collection: portfolio
 ---
 

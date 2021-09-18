@@ -1,6 +1,6 @@
 ---
 title: "Williams Control - Curtiss Wright"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/images/cwintern_adobespark.jpeg'>"
 collection: portfolio
 ---
 

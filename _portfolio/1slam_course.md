@@ -17,5 +17,3 @@ collection: portfolio
 <br/><img src='/images/slam_pic_adobespark.png'>
 
 ## Robot Localization using Particle Filter
-* 
-

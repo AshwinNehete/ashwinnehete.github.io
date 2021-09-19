@@ -1,10 +1,12 @@
 ---
-title: "To study the effect of powder deposition strategies on warping"
-excerpt: "Studied dimensional dependance of generation of residual stresses at the clad-substrate interface for first clad layer"
+title: "Bachelors Thesis Project, IIT Kharagpur"
+excerpt: ""
 collection: portfolio
 ---
 
-`Bachelors Thesis Project - Spring 2020`
+<!-- `Bachelors Thesis Project - Spring 2020` -->
+
+## To study the effect of powder deposition strategies on warping
 
 * Under the guidance of Prof. A.K.Nath (Department of Mechanical Engineering, IIT Kharagpur), modelled the heat affected zone and phase transformation at the clad-substrate interface in LMD.
 * Aimed at modelling the effects of powder deposition strategies like hatching and preheating on warping that occur during laser metal deposition process.

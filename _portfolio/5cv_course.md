@@ -13,9 +13,9 @@ collection: portfolio
 * Implemented an AR application by using planar homographies.
 
 ## Lucas-Kanade Tracking
-* Implement a simple Lucas-Kanade (LK) tracker with one single template.
-* Implement a motion subtraction method for tracking moving pixels in a scene.
-* Study efficient tracking using inverse composition.
+* Implemented a simple Lucas-Kanade (LK) tracker with one single template.
+* Implemented a motion subtraction method for tracking moving pixels in a scene.
+* Studied efficient tracking using inverse composition.
 
 ## 3D Reconstruction
 * 

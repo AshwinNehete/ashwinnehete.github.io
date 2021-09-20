@@ -1,6 +1,6 @@
 ---
 title: "Genetic Algorithms in Engineering Process Modelling"
-excerpt: "Obtain the optimal position of the ground hinge of a multi-bar linkage for various coupler configurations"
+excerpt: ""
 collection: portfolio
 ---
 

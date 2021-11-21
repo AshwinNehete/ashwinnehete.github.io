@@ -4,10 +4,13 @@ excerpt: ""
 collection: portfolio
 ---
 
-`Coursework - Fall 2020`
+`16720 Coursework - Fall 2020`
 
 ## Spatial Pyramid Matching for Scene Classification
 * Built a representation based on bags of visual words and use spatial pyramid matching for classifying the scene categories.
+* The program is able to classify images into 8 types of scenes. The following figure illustrates the overview of the Bag-of-words approach implemented in this task :
+
+<br/><img src='/images/cv_hw1_overview.png'>
 
 ## Augmented Reality with Planar Homographies
 * Implemented an AR application by using planar homographies.

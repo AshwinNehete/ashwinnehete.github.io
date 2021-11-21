@@ -17,7 +17,7 @@ collection: portfolio
 
 ## Augmented Reality with Planar Homographies
 * Implemented an AR application by using planar homographies.
-{% include youtubePlayer.html id=page.N9ytb3cLnX4 %}
+{% include youtubePlayer.html id="N9ytb3cLnX4" %}
 
 ## Lucas-Kanade Tracking
 * Implemented a simple Lucas-Kanade (LK) tracker with one single template.

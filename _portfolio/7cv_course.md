@@ -18,6 +18,11 @@ youtubeId: N9ytb3cLnX4
 
 ## Augmented Reality with Planar Homographies
 * Implemented an AR application by using planar homographies.
+    * The program finds the correspondences between two images using BRIEF Descriptor.
+    * Estimates the homography between the images.
+    * The images are then warped to overlay a Harry Potter image onto a Computer Vision textbook cover.
+    * This is further extended to videos to generate an Augmented Reality application depicted in the following video.
+
 {% include youtubePlayer.html id=page.youtubeId %}
 
 ## Lucas-Kanade Tracking

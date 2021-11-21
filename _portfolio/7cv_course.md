@@ -2,6 +2,7 @@
 title: "Computer Vision"
 excerpt: ""
 collection: portfolio
+youtubeId: N9ytb3cLnX4
 ---
 
 `16720 Coursework - Fall 2020`
@@ -17,7 +18,7 @@ collection: portfolio
 
 ## Augmented Reality with Planar Homographies
 * Implemented an AR application by using planar homographies.
-{% include youtubePlayer.html id="N9ytb3cLnX4" %}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ## Lucas-Kanade Tracking
 * Implemented a simple Lucas-Kanade (LK) tracker with one single template.

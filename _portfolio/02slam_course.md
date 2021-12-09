@@ -16,4 +16,10 @@ collection: portfolio
 
 <br/><img src='/images/slam_pic_adobespark.png'>
 
-## Robot Localization using Particle Filter
+## Robot Localization using Particle Filters
+
+## SLAM using Extended-Kalman Filter
+
+## Linear and Non-linear SLAM Solvers
+
+## 3D Dense Reconstruction using ICP and Point-based Fusion

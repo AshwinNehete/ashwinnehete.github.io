@@ -12,6 +12,8 @@ The design, development and validation of the Eklavya 6.0 have been presented in
 
 [Download here](https://ieeexplore.ieee.org/abstract/document/8675619?casa_token=2XNBw0ar5jwAAAAA:AUyINw949RcHkvA_cEpQgl-g1ZLcXTKMPMh3_ByJGwtzYsPQ6TvI8iM7zl87SBKrsgIDQrk)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nu-RGhk0T80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br/><img src='/images/eklavya.jpeg'>
 
 <!--- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). --->

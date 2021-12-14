@@ -14,6 +14,6 @@ The design, development and validation of the Eklavya 6.0 have been presented in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nu-RGhk0T80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/><img src='/images/eklavya.jpeg'>
+<!-- <br/><img src='/images/eklavya.jpeg'> -->
 
 <!--- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). --->

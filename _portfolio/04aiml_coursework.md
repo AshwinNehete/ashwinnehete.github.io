@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence and Machine Learning for Engineers"
+title: "Artificial Intelligence and Machine Learning"
 excerpt: ""
 collection: portfolio
 ---

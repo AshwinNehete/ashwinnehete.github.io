@@ -36,14 +36,19 @@ youtubeId2: AplkxzoV1uQ
 * Studied efficient tracking using inverse composition.
 
 ## 3D Reconstruction
-* 
+* Created a 3D Reconstruction of an object given a stereo-pair images of the object.
+    * Estimated the Fundamental Matrix using eight-point and seven-point algorithms.
+    * Calculated the Essential Matrix using the Fundamental Matrix and calibrated camera intrinsics.
+    * Used triangulation method to obtain a 3D metric reconstruction from 2D correspondences.
 
 ## Neural Networks for Recognition
-* 
+* Implemented a fully connected Neural network that can recognize handwritten letters in an image using the NIST36 dataset to a test accuracy of around 76%.
 
 ## Photometric  Stereo
-* 
+* Rendering the n-dot-i lighting
+* Calibrated Photometric Stereo - Lighting directions are given
+* Uncalibrated Photometric Stereo - No lighting directions are given
 
-> Quote
+<!-- > Quote
 
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/500x300.png'> -->

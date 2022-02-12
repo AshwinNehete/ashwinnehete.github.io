@@ -30,12 +30,15 @@ youtubeId: jR8JFaymbeE
 <!-- <br/><img src='/images/slam_pic_adobespark.png'> -->
 
 ## Catch me if you can!
+`Problem Statement 01`
 * Developed a planner that allowed a point robot to catch a moving object.
 
 ## Planning for High-DOF planar arm
+`Problem Statement 02`
 * Implemented different sampling-based planners for the arm to move from its start joint configuration to a goal configuration avoid collision with the obstacles.
 * The types of planners included Probabilistic Roadmaps, RRT, RRT-Connect, RRT*
 
 ## Symbolic Planning
+`Problem Statement 03`
 * Programmed a generic symbolic planner. The planner takes in a set of symbols, initials conditions, goal conditions as part of the environment description.
 * Given a set of valid actions, the planner is able to generate a logical plan to achieve the goal condition.
